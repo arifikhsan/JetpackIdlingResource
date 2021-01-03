@@ -42,6 +42,6 @@ class MainActivity : AppCompatActivity() {
                 //Memberitahukan bahwa tugas sudah selesai dijalankan
                 EspressoIdlingResource.decrement()
             }
-        }, 3000)
+        }, 4000)
     }
 }
